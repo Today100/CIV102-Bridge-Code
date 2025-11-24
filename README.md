@@ -11,3 +11,8 @@ Teaching Assistant: Mohaddeseh (Mohi) Abdolhosseini
 **tool.py** - main file used to calculate aspects of the bridge based on different design choices
 
 **design_x.py** - design associated files to check the performance and fos of the cross section.
+
+## Required Libraries
+
+- numpy
+- matplotlib
