@@ -1,6 +1,7 @@
 # CIV102 Bridge Design Project
 
 Team member: Melissa Han, Vaisnavi Prabaharan, Grace Zhang
+
 Teaching Assistant: Mohaddeseh (Mohi) Abdolhosseini
 
 ## Information Regarding Files
